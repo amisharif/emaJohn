@@ -1,0 +1,27 @@
+.logoImg{
+
+    display: block;
+    margin: 5px auto;
+
+    width: 180px;
+}
+
+.navBar{
+    background-color: black;
+    line-height: 50px;
+    text-align: center;
+
+}
+.navBar a{
+
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    padding: 14px;
+    
+
+}
+
+.navBar a:hover{
+    background-color: orange;
+}

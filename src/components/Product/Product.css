@@ -1,0 +1,15 @@
+.singleProduct{
+    text-align: left;
+    margin: 10px;
+    margin-left: 160px;
+}
+
+.main-button{
+
+    padding: 8px;
+    background-color: coral;
+    color: white;
+    border: 0ch;
+    cursor: pointer;
+
+}
